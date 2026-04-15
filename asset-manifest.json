@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Excel-Analysis-Tool/static/css/main.722cdd0f.css",
+    "main.js": "/Excel-Analysis-Tool/static/js/main.6c71d8a9.js",
+    "static/js/453.4ba355e7.chunk.js": "/Excel-Analysis-Tool/static/js/453.4ba355e7.chunk.js",
+    "index.html": "/Excel-Analysis-Tool/index.html",
+    "main.722cdd0f.css.map": "/Excel-Analysis-Tool/static/css/main.722cdd0f.css.map",
+    "main.6c71d8a9.js.map": "/Excel-Analysis-Tool/static/js/main.6c71d8a9.js.map",
+    "453.4ba355e7.chunk.js.map": "/Excel-Analysis-Tool/static/js/453.4ba355e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.722cdd0f.css",
+    "static/js/main.6c71d8a9.js"
+  ]
+}
